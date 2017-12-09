@@ -1,0 +1,1 @@
+<?php echo $this->redirect(['Controller' => 'Turbina' , 'action' => 'index']); ?>
